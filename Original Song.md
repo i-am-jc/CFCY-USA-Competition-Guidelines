@@ -12,11 +12,11 @@
 
 6. The composition can be no longer than 5 minutes in length. 
 
-7. Your song must somehow incorporate the CFC 2025 theme anchor verse of **Bible verse Matthew 28:8 & 10 NABRE**, which says, 
+7. Your song must somehow incorporate the CFC Youth 2026 theme "As One" anchor verse of **1 John 1:3-4**, which says, 
 
-*?**8** Then they went away quickly from the tomb, fearful yet overjoyed, and ran to announce[[a]](https://www.biblegateway.com/passage/?search=Matthew%2028%3A8-10&version=NABRE#fen-NABRE-28523a) this to his disciples? **10** Then Jesus said to them, ?Do not be afraid. Go tell my brothers to go to Galilee, and there they will see me.?*
+**3** What we have seen and heard we announce to you also, so that you will join with us in the fellowship that we have with the Father and with his Son Jesus Christ. **4** We write this in order that our joy may be complete.
 
-8. No additional dancers nor additional non-band members are allowed during the showcase. 
+8. No additional dancers nor additional non-band members are allowed during the competition. 
 
 9. Upon sign-up, you will indicate exactly what instruments you will be using, as well as how many people will be needed to orchestrate your musical piece.
 
@@ -26,11 +26,11 @@
 
 \*\*\* The mp3 recording should be as clean as possible. The presentation slides should have a plain white background with the text in black. 
 
-12. The lyrics of the song must be handed to the Creatives Committee at least one hour before the showcase for them to have a chance to read the lyrics beforehand. 
+12. The lyrics of the song must be handed to the Creatives Committee at least one hour before the competition for them to have a chance to read the lyrics beforehand. 
 
 13. The song that is performed must be the same as the lyrics handed to the Creatives Committee. 
 
-14. It is the responsibility of the performer(s) to signify his/her/their presence at least **one hour** before the showcase. He/She/They need(s) to present a copy of the music lyrics to the Creatives Committee at least one hour before the performance. Participants must pay attention to any announcements during YCON. Their performance order will be announced before the showcase. 
+14. It is the responsibility of the performer(s) to signify his/her/their presence at least **one hour** before the competition. He/She/They need(s) to present a copy of the music lyrics to the Creatives Committee at least one hour before the performance. Participants must pay attention to any announcements during YCON. Their performance order will be announced before the competition. 
 
 **Criteria for Judging** 
 
@@ -78,17 +78,41 @@ Content 20%
 
 **Original Song Entry Form**
 
-| Delegation   (Area/Cluster/Chapter) |  |  |  |
-| ----- | :---- | :---- | :---- |
-| **Area/Cluster/Chapter Couple Coordinator?s  Name and Signature:** |  | **Area/Cluster/Chapter Head?s Name and  Signature:** |  |
-| **Song Title:**  |  | **Composer:** |  |
-| **Band (First Name, Last  Name, Age):** |  |  |  |
-|  | **Bass**:  | **Keyboard**:  | **Drums**: |
-| **Acoustic**:  | 1\.  2\. | **Electric**:  | 1\.  2\. |
-| **Vocals**:  | 1\.  2\. | **Others (if   applicable)**: | 1\.  2\. |
-| **Performance Time:**  | **Minutes:**  | **Seconds:** |  |
-| **Original Song Captain:**  | **Name:**  | **Cell:** |  |
-|  | **Home:**  | **Email:** |  |
+**Delegation Information:**
+- Delegation (Area/Cluster/Chapter): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Area/Cluster/Chapter Couple Coordinator's Name and Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Area/Cluster/Chapter Head's Name and Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Song Information:**
+- Song Title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Composer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Band (First Name, Last Name, Age):**
+- Bass: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Keyboard: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Drums: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Acoustic Guitar:
+  1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Electric Guitar:
+  1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Vocals:
+  1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Others (if applicable):
+  1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Performance Time:**
+- Minutes: \_\_\_\_\_\_\_\_\_\_\_\_
+- Seconds: \_\_\_\_\_\_\_\_\_\_\_\_
+
+**Original Song Captain:**
+- Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Cell: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Home: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Original Song Judging Rubric**
 

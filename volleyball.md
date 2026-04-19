@@ -1,22 +1,20 @@
 **CO-ED VOLLEYBALL** 
 
-1\. This competition is open to active **CFC Youth members within the age range of 12 to 21 years old  (as of the date of the YCON)**. There will only be one entry accepted per delegation (maximum of 15  players per team). 
+1\. This competition is open to active **CFC Youth members within the age range of 12 to 18 years old  (as of the date of the YCON)**. There will only be one entry accepted per delegation (maximum of 15  players per team). 
 
 2\. All rosters are due at least 2 weeks before the start of the YCON. 
 
-3\. **All Rosters must be reviewed and approved by the CFC-Youth Area/Cluster/Chapter Couple  Coordinators** to ensure that the team consists entirely of active CFC Youth members (as  **defined by Page 3**). Entry forms missing the Area/Cluster/Chapter Couple Coordinator?s  approval will not be accepted. 
+3\. **All Rosters must be reviewed and approved by the CFC-Youth Area/Cluster/Chapter Couple  Coordinators** to ensure that the team consists entirely of active CFC Youth members (as  **defined in the General Information section**). Entry forms missing the Area/Cluster/Chapter Couple Coordinator?s  approval will not be accepted. 
 
 4\. All participants must be registered for the YCON. 
 
-5\. ONLY **participants aged 18 and below** are allowed to  compete.
+5\. Please assign one Couple Coordinator and one CFC Youth leader from your delegation to be the  coach and captain of the team. 
 
-6\. Please assign one Couple Coordinator and one CFC Youth leader from your delegation to be the  coach and captain of the team. 
+6\. Each team is required to wear shirts or jerseys of the same color corresponding to the assigned color  of its delegation. 
 
-7\. Each team is required to wear shirts or jerseys of the same color corresponding to the assigned color  of its delegation. 
+7\. Team must have **6 players** on the floor at all times. Team composition on the floor is at most three  (3) boys and girls can have at least three (3). 
 
-8\. Team must have **6 players** on the floor at all times. Team composition on the floor is at most three  (3) boys and girls can have at least three (3). 
-
-9\. GAMEPLAY is as follows: 
+8\. GAMEPLAY is as follows: 
 
 a. Each game will consist of one set played up to 25 points. 
 
@@ -30,7 +28,7 @@ ii. Sets go up to a 25-rally point system.
 
 iii. If there is a tie (i.e., the teams win one set each), a deciding set will be played up to 9 points. 
 
-10\. Any form of protest should be coursed through the designated TEAM CAPTAIN. The Team Captain  must then relay the concern to the Competitions? Administration Booth, where the situation will be  dealt with in the fairest way possible. 
+9\. Any form of protest should be coursed through the designated TEAM CAPTAIN. The Team Captain  must then relay the concern to the Competitions? Administration Booth, where the situation will be  dealt with in the fairest way possible. 
 
 **Rules** 
 

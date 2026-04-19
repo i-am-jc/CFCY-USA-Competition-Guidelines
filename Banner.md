@@ -1,4 +1,4 @@
-**BANNER SHOWCASE**
+**BANNER COMPETITION**
 
 1\. All participants should submit their final entry form at least 2 weeks before the start of YCON. The Creatives Committee should be notified ahead of time for any changes that will be  made prior to the YCON date. **Any revisions made on the day of will not be accepted. ** 
 
@@ -6,11 +6,11 @@
 
 3\. All participants must be registered for YCON. 
 
-4\. You are required to provide a minimum **1-paragraph write-up** explaining the concept of your  decisions as to how your design reflects the theme. This should be submitted to the Creatives  Committee at least 2 weeks before the start of YCON. **Late or no submission may not be accepted for the showcase.** 
+4\. You are required to provide a minimum **1-paragraph write-up** explaining the concept of your  decisions as to how your design reflects the theme. This should be submitted to the Creatives  Committee at least 2 weeks before the start of YCON. **Late or no submission may not be accepted for the competition.** 
 
-5. Your banner must represent the CFC 2025 theme anchor verse of **Bible verse Matthew 28:8 & 10 NABRE**, which says, 
+5. Your banner must represent the CFC 2026 theme "As One" anchor verse of **1 John 1:3-4**, which says, 
 
-*?**8** Then they went away quickly from the tomb, fearful yet overjoyed, and ran to announce[[a]](https://www.biblegateway.com/passage/?search=Matthew%2028%3A8-10&version=NABRE#fen-NABRE-28523a) this to his disciples? **10** Then Jesus said to them, ?Do not be afraid. Go tell my brothers to go to Galilee, and there they will see me.?*
+**3** What we have seen and heard we announce to you also, so that you will join with us in the fellowship that we have with the Father and with his Son Jesus Christ. **4** We write this in order that our joy may be complete.
 
 6\. The banner must be vertical (portrait orientation) 2 meters high (approximately 2 yards) and 1  meter wide (approximately 1 yard). 
 
@@ -22,11 +22,25 @@
 
 **Banner Entry Form**
 
-| Delegation   (Area/Cluster/Chapter): |  |  |
-| :---- | :---- | :---- |
-| **Area/Cluster/Chapter   Couple Coordinator?s Name  and Signature:** |  |  |
-| **Area/Cluster/Chapter   Head?s Name and   Signature:** |  |  |
-| **Banner Team (First Name,  Last Name):** |  |  |
-| 1\.  2\.  3\.  4\.  5\. | 6\.  7\.  8\.  9\.  10\. |  |
-| **Banner Representative**  | Name:  | Cell: |
-|  | Home:  | Email: |
+**Delegation Information:**
+- Delegation (Area/Cluster/Chapter): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Area/Cluster/Chapter Couple Coordinator's Name and Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Area/Cluster/Chapter Head's Name and Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Banner Team (First Name, Last Name):**
+1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+3. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+4. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+5. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+6. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+7. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+8. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+9. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+10. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Banner Representative:**
+- Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Cell: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Home: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

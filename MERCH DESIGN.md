@@ -8,15 +8,15 @@ How awesome would it be to see one of your own designs being worn by your brothe
 
 ? The **CFC Youth Area/Cluster/Chapter Couple Coordinators and/or Area/Cluster/ Chapter Heads** must verify the official list to ensure that they are active CFC Youth members. An entry form missing  ANY approval will not be accepted. This must be sent to the Creatives Committee via email.  ? All participants must be registered for the YCON.  
 
-? You are required to provide a minimum **1-paragraph write-up** explaining the concept of your  decisions as to how your design reflects the theme. This should be submitted to the Creatives  Committee at least 2 weeks before the start of YCON. **Late or no submission may not be  accepted for the showcase.** 
+? You are required to provide a minimum **1-paragraph write-up** explaining the concept of your  decisions as to how your design reflects the theme. This should be submitted to the Creatives  Committee at least 2 weeks before the start of YCON. **Late or no submission may not be  accepted for the competition.** 
 
 ? Merch Design entries must represent CFCY as a whole. 
 
 ? Its design should be able to spark interest from peers and strangers in order to evangelize. 
 
-? Merch Design entries must have a Christian-based theme related to the CFC 2025 theme anchor verse of **Bible verse Matthew 28:8 & 10 NABRE**, which says,  
+? Merch Design entries must have a Christian-based theme related to the CFC 2026 theme "As One" anchor verse of **1 John 1:3-4**, which says,  
 
-*?**8** Then they went away quickly from the tomb, fearful yet overjoyed, and ran to announce[[a]](https://www.biblegateway.com/passage/?search=Matthew%2028%3A8-10&version=NABRE#fen-NABRE-28523a) this to his disciples? **10** Then Jesus said to them, ?Do not be afraid. Go tell my brothers to go to Galilee, and there they will see me.?*
+**3** What we have seen and heard we announce to you also, so that you will join with us in the fellowship that we have with the Father and with his Son Jesus Christ. **4** We write this in order that our joy may be complete.
 
 ? Regions are free to select the base color of the merch. Designs can?t have more than 3 colors per side. 
 
@@ -26,19 +26,22 @@ How awesome would it be to see one of your own designs being worn by your brothe
 
 ? Only one entry per region is allowed. 
 
-? All entries should be showcased at the YCON. 
+? All entries should be presented at the YCON. 
 
 ? TO SUBMIT FOR YCON: Submit file in any format along with a brief explanation (5 sentences max)  of the design via email to [**cfcycomps@gmail.com**](mailto:cfcycomps@gmail.com). Please label the email subject with ?MERCH DESIGN: \[INSERT REGION-AREA  & NAME\]? 
 
-**SUBMISSION FOR MERCH DESIGN:** 
+**SUBMISSION FOR MERCH DESIGN:**
 
-**Fill out this form and submit it along with your email submission to [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com)** 
+**Fill out this form and submit it along with your email submission to [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com)**
 
-| NAME: |  |
-| ----: | ----- |
-| **AREA/REGION:** |  |
-| **Couple Coordinator?s   Name(s):** |  |
-| **Couple Coordinator?s   Email(s):** |  |
-| **Your Email** |  |
-| **Your Phone Number:** |  |
-| **Submission should include: Send to** [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com) | **SUBJ: ?Merch Design: \[insert region-area and name\]?  1\. Merch design in any file format 2\. 1 paragraph write up** |
+- NAME: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- AREA/REGION: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Couple Coordinator's Name(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Couple Coordinator's Email(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Your Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Your Phone Number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Submission should include: Send to [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com)**
+- SUBJ: "Merch Design: [insert region-area and name]"
+- 1. Merch design in any file format
+- 2. 1 paragraph write up

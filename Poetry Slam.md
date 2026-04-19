@@ -1,4 +1,4 @@
-**POETRY SLAM SHOWCASE** 
+**POETRY SLAM COMPETITION** 
 
 1\. All participants should submit their final entry form at least 2 weeks before the start of YCON. The Creatives Committee should be notified ahead of time for any changes that will be  made prior to the YCON date. **Any revisions made on the day of will not be accepted.** 
 
@@ -6,9 +6,9 @@
 
 3\. All participants must be registered for YCON. 
 
-4. Your poem must represent the CFC 2025 theme anchor verse of **Bible verse Matthew 28:8 & 10 NABRE**, which says, 
+4. Your poem must represent the CFC 2026 theme "As One" anchor verse of **1 John 1:3-4**, which says, 
 
-*?**8** Then they went away quickly from the tomb, fearful yet overjoyed, and ran to announce[[a]](https://www.biblegateway.com/passage/?search=Matthew%2028%3A8-10&version=NABRE#fen-NABRE-28523a) this to his disciples? **10** Then Jesus said to them, ?Do not be afraid. Go tell my brothers to go to Galilee, and there they will see me.?*
+**3** What we have seen and heard we announce to you also, so that you will join with us in the fellowship that we have with the Father and with his Son Jesus Christ. **4** We write this in order that our joy may be complete.
 
 5\. Your written poem must be of a positive and/or Catholic nature. Content that is sexually  suggestive or vulgar will result in **disqualification**. 
 
@@ -24,16 +24,26 @@
 
 11\. The poem that is performed must be the same as the lyrics handed to the Creatives Committee. 
 
-12\. It is the performer?s responsibility to signify his or her presence at least **one hour** before the  showcase. He or she needs to present a copy of his or her poem lyrics to the Creatives  Committee at least one hour before his or her performance. Participants must pay attention for  any announcements during the YCON. Their performance order will be announced before the  showcase. 
+12\. It is the performer?s responsibility to signify his or her presence at least **one hour** before the  competition. He or she needs to present a copy of his or her poem lyrics to the Creatives  Committee at least one hour before his or her performance. Participants must pay attention for  any announcements during the YCON. Their performance order will be announced before the  competition. 
 
 13\. Each Poetry Slam participant must submit a minimum **1-paragraph write-up** of the inspiration  behind the poem, which must be submitted via email [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com)  to the Creatives Committee at least 2  weeks before the start of the YCON. 
 
 **Poetry Slam Entry Form**
 
-| Delegation   (Area/Cluster/Chapter): |  |  |
-| :---- | :---- | :---- |
-| **Area/Cluster/Chapter   Couple Coordinator?s Name  and Signature:** |  |  |
-| **Area Cluster/Chapter Head?s  Name and Signature:** |  |  |
-| **Performer (First Name,  Last  Name, Age):** |  | **Poem Title:** |
-| **Performance Time** | **Minutes:**  | **Seconds:** |
-| **Cell:**  | **Home:**  | **Email:** |
+**Delegation Information:**
+- Delegation (Area/Cluster/Chapter): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Area/Cluster/Chapter Couple Coordinator's Name and Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Area Cluster/Chapter Head's Name and Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Performer Information:**
+- Performer (First Name, Last Name, Age): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Poem Title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Performance Time:**
+- Minutes: \_\_\_\_\_\_\_\_\_\_\_\_
+- Seconds: \_\_\_\_\_\_\_\_\_\_\_\_
+
+**Contact Information:**
+- Cell: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Home: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

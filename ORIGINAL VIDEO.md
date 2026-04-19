@@ -1,4 +1,4 @@
-**ORIGINAL VIDEO SHOWCASE**
+**ORIGINAL VIDEO COMPETITION**
 
 *Film has a unique and powerful way of capturing life and conveying a message. This year we are  challenging you to use your God-given talents to express the New Evangelization\! ?Evangelization will  always contain as the foundation, center and, at the same time, the summit of its dynamism-- a clear  proclamation that in Jesus Christ, salvation is offered to all men, as a gift of God's grace and mercy?The  new evangelization is not a matter of merely passing on doctrine but rather of a personal and profound  meeting with the Savior.? ? Blessed John Paul II* 
 
@@ -6,9 +6,9 @@ Create an original video that can be used as a way to evangelize ? by showing th
 
 **RULES & REGULATIONS** 
 
-1. The original video must somehow interpret the CFC 2025 theme anchor verse of **Bible verse Matthew 28:8 & 10 NABRE**, which says, 
+1. The original video must somehow interpret the CFC 2026 theme "As One" anchor verse of **1 John 1:3-4**, which says, 
 
-*?**8** Then they went away quickly from the tomb, fearful yet overjoyed, and ran to announce[[a]](https://www.biblegateway.com/passage/?search=Matthew%2028%3A8-10&version=NABRE#fen-NABRE-28523a) this to his disciples? **10** Then Jesus said to them, ?Do not be afraid. Go tell my brothers to go to Galilee, and there they will see me.?*
+**3** What we have seen and heard we announce to you also, so that you will join with us in the fellowship that we have with the Father and with his Son Jesus Christ. **4** We write this in order that our joy may be complete.
 
 2\. **Accepted original video submissions types:** 
 
@@ -28,19 +28,22 @@ c. Commercial \- A video that usually promotes a product, service or brand. E.g.
 
 ? Only one entry per region is allowed. 
 
-? All entries should be showcased at the YCON. 
+? All entries should be presented at the YCON. 
 
-? TO SUBMIT FOR YCON: Please upload the video to YouTube or Vimeo first, then submit via private link (YouTube or Vimeo) to [**cfcycomps@gmail.com**](mailto:cfcycomps@gmail.com). Please type ?Original Video 2025:  (AREA/CLUSTER/CHAPTER), (NAME)? on the Subject line. 
+? TO SUBMIT FOR YCON: Please upload the video to YouTube or Vimeo first, then submit via private link (YouTube or Vimeo) to [**cfcycomps@gmail.com**](mailto:cfcycomps@gmail.com). Please type ?Original Video 2026:  (AREA/CLUSTER/CHAPTER), (NAME)? on the Subject line. 
 
 **SUBMISSION FOR ORIGINAL VIDEO**
 
-**Fill out this form and submit it along with your email submission to [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com)** 
+**Fill out this form and submit it along with your email submission to [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com)**
 
-| NAME: |  |
-| ----: | ----- |
-| **AREA/REGION:** |  |
-| **Couple Coordinator?s   Name(s):** |  |
-| **Couple Coordinator?s   Email(s):** |  |
-| **Your Email** |  |
-| **Your Phone Number:** |  |
-| **Submission should include: Send to** [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com) | **SUBJ: ?**Original Video 2025:  (AREA/CLUSTER/CHAPTER), (NAME)? **1\. Original video youtube link 2\. 1 paragraph write up** |
+- NAME: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- AREA/REGION: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Couple Coordinator's Name(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Couple Coordinator's Email(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Your Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Your Phone Number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Submission should include: Send to [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com)**
+- SUBJ: "Original Video 2026: (AREA/CLUSTER/CHAPTER), (NAME)"
+- 1. Original video youtube link
+- 2. 1 paragraph write up
