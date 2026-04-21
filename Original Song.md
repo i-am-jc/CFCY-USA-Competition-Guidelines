@@ -12,7 +12,7 @@
 
 6. The composition can be no longer than 5 minutes in length. 
 
-7. Your song must somehow incorporate the CFC Youth 2026 theme "As One" anchor verse of **1 John 1:3-4**, which says, 
+7. Your song must somehow incorporate the CFC Youth 2026 theme "Together, As One!" anchor verse of **1 John 1:3-4**, which says, 
 
 **3** What we have seen and heard we announce to you also, so that you will join with us in the fellowship that we have with the Father and with his Son Jesus Christ. **4** We write this in order that our joy may be complete.
 
@@ -30,7 +30,63 @@
 
 13. The song that is performed must be the same as the lyrics handed to the Creatives Committee. 
 
-14. It is the responsibility of the performer(s) to signify his/her/their presence at least **one hour** before the competition. He/She/They need(s) to present a copy of the music lyrics to the Creatives Committee at least one hour before the performance. Participants must pay attention to any announcements during YCON. Their performance order will be announced before the competition. 
+14. It is the responsibility of the performer(s) to signify his/her/their presence at least **one hour** before the competition. He/She/They need(s) to present a copy of the music lyrics to the Creatives Committee at least one hour before the performance. Participants must pay attention to any announcements during YCON. Their performance order will be announced before the competition.
+
+## Creator Presence Requirement (MANDATORY)
+
+**All winning creative artists (songwriters, composers) MUST be physically present at the national competition. No proxies allowed.**
+
+### Who Must Be Present:
+
+**Original Song**: Songwriter(s)/composer(s) who wrote the lyrics and/or composed the music - NOT just performers
+
+### Rationale:
+
+This competition celebrates **creative authorship**, not just performance skill. The person who created the work must be present to:
+- Answer judges' questions about creative decisions
+- Demonstrate authentic understanding of their work
+- Accept recognition for their creativity
+
+### If Creator Cannot Attend:
+
+- Entry may compete at regional level only
+- If entry wins regionally but creator cannot attend nationals, entry is forfeited
+- Alternate (next highest scorer) will advance to nationals instead
+- **Exception**: Medical emergency or family bereavement (must be documented and approved by Creatives Committee)
+
+### For Team Entries:
+
+- At least **one primary creator** (songwriter/composer) must be present
+- If multiple people contributed to writing/composition, designate one primary creator who will represent
+- That person must be able to answer questions about the entire creative process
+
+## Competition Day: Lottery Question Component (30 seconds)
+
+After your performance, your team will participate in a **lottery-style question session**:
+
+1. **ONE team member** (songwriter/composer) draws a random question from the question pool
+2. Read the question aloud
+3. **30 seconds** to answer (timer will be visible)
+4. Answer tests your authentic understanding of your creative work
+
+**This component counts for 15% of your score.**
+
+### Sample Lottery Questions:
+
+Each competition, one question will be randomly drawn from this pool:
+
+1. "What inspired the chorus of your song?"
+2. "Why did you choose this tempo/feel for the song?"
+3. "What does [specific lyric line from your song] mean to you personally?"
+4. "What was the hardest part about writing this song?"
+5. "How does your song connect to 1 John 1:3-4?"
+6. "If you could change one thing about your song now, what would it be?"
+7. "What emotion were you trying to capture in the bridge?"
+8. "Why did you choose these specific chord progressions?"
+9. "What makes this song meaningful to you?"
+10. "Sing or hum the melody of your second verse."
+
+**Preparation Tip**: Be ready to speak authentically about your creative journey. Judges evaluate the authenticity and depth of your response, not perfection. Nervousness is okay; genuine understanding is what matters.
 
 **Criteria for Judging** 
 
@@ -38,25 +94,29 @@
 
 **Music Rendition (Musical Creativity) 10%** 
 
-**Musical Arrangement 30%** 
+**Musical Arrangement 25%** 
 
-Effective use of instruments 10% 
+Effective use of instruments 8% 
 
-Transitions (Climax, Pause, Flow, etc.) 10% 
+Transitions (Climax, Pause, Flow, etc.) 9% 
 
-Stage Presence 10% 
+Stage Presence 8% 
 
-**Showmanship 20%** 
+**Showmanship 15%** 
 
-On-stage presence 10% 
+On-stage presence 8% 
 
-Confidence 10% 
+Confidence 7% 
 
-**Message and Content 40%** 
+**Message and Content 35%** 
 
-Uniqueness of Lyrics 20% 
+Uniqueness of Lyrics 18% 
 
-Content 20% 
+Content 17% 
+
+**Lottery Question Response 15%**
+
+Authentic understanding and explanation of creative work
 
 ***TOTAL 100%*** 
 
@@ -123,7 +183,19 @@ Content 20%
 |-----------|---------------|--------------|
 | Music Rendition | _____ / 10 | 8 |
 
-**TOTAL RAW SCORE:** _____ / 80
+**LOTTERY QUESTION RESPONSE**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Authentic Understanding of Creative Work | _____ / 10 | 9 |
+
+**Scoring Guidance for Lottery Question Response:**
+- **10**: Exceptional authentic response; passionate, detailed, clear personal understanding; fills 30 seconds meaningfully
+- **8** (BASELINE): Good authentic response; explains creative choices credibly; specific to their work; shows genuine understanding
+- **6**: Adequate but vague; generic statements; struggles to provide specific details
+- **4 or below**: Poor/inauthentic; cannot explain choices; generic answers that could apply to any song
+
+**TOTAL RAW SCORE:** _____ / 90
 
 **JUDGE COMMENTS:**
 
@@ -131,7 +203,7 @@ _____________________________________________________________________________
 
 _____________________________________________________________________________
 
-**Note:** Final weighted score will be calculated by the master sheet based on category percentages (Message & Content 40%, Musical Arrangement 30%, Showmanship 20%, Music Rendition 10%).
+**Note:** Final weighted score will be calculated by the master sheet based on category percentages (Message & Content 35%, Musical Arrangement 25%, Showmanship 15%, Music Rendition 10%, Lottery Question Response 15%).
 
 **DEDUCTIONS**  
 • Late entry form submission, including 1-paragraph write-up (5 points)
