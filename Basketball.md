@@ -1,28 +1,26 @@
 **BASKETBALL (BOYS AND GIRLS)** 
 
-1\. Consists of active CFC Youth members with a **maximum of 15 players per team**. The teams  are divided into brothers and sisters within the age range of 12 to 21 years old (as of the  date of the YCON). All players must play in the game. If all players do not play, the other  team will receive 15 points at the end of the game. 
+1\. Consists of active CFC Youth members with a **maximum of 15 players per team**. The teams  are divided into brothers and sisters within the age range of 12 to 18 years old (as of the  date of the YCON). All players must play in the game. If all players do not play, the other  team will receive 15 points at the end of the game. 
 
 2\. All rosters are due at least 2 weeks before the start of YCON. 
 
-3\. **All Rosters must be reviewed and approved by the CFC-Youth Area/Cluster/Chapter  Couple Coordinators** to ensure that the team consists entirely of active CFC Youth  members (as **defined by Page 3**). Entry forms missing the Area/Cluster/Chapter Couple  Coordinator?s approval will not be accepted. 
+3\. **All Rosters must be reviewed and approved by the CFC-Youth Area/Cluster/Chapter  Couple Coordinators** to ensure that the team consists entirely of active CFC Youth  members (as **defined in the General Information section**). Entry forms missing the Area/Cluster/Chapter Couple  Coordinator?s approval will not be accepted. 
 
 4\. All participants must be registered for YCON. 
 
-5\. ONLY **participants aged 18 and below** are allowed to  compete. 
+5\. Please assign one Couple Coordinator and one CFC Youth leader from your  Area/Cluster/Chapter to be the coach and captain of the team. 
 
-6\. Please assign one Couple Coordinator and one CFC Youth leader from your  Area/Cluster/Chapter to be the coach and captain of the team. 
+6\. ONLY PLAYERS LISTED ON THE OFFICIAL LINEUP WILL BE ALLOWED TO PLAY. 
 
-7\. ONLY PLAYERS LISTED ON THE OFFICIAL LINEUP WILL BE ALLOWED TO PLAY. 
+7\. Each team is required to wear shirts or jerseys of the same color corresponding to the  assigned color of its delegation. 
 
-8\. Each team is required to wear shirts or jerseys of the same color corresponding to the  assigned color of its delegation. 
+8\. Each team player is also required to have his or her jersey number visible on them at all times
 
-9\. Each team player is also required to have his or her jersey number visible on them at all times
+9\. Each game will have two **10-minute halves** (running time). There will be NO CLOCK  STOPPAGE, except during timeouts (30 seconds each). 
 
-10\. Each game will have two **10-minute halves** (running time). There will be NO CLOCK  STOPPAGE, except during timeouts (30 seconds each). 
+10\. There will be a 3-minute break after the first half. 
 
-11\. There will be a 3-minute break after the first half. 
-
-12\. Each team is only allotted 1 time-out. 
+11\. Each team is only allotted 1 time-out. 
 
 **Violations** 
 
@@ -31,6 +29,24 @@
 ? All referees' decisions are final and are not disputable. 
 
 ? Hard fouls are prohibited, any player causing danger to other players may be removed at the  referee?s discretion.
+
+**Scoring and Judging**
+
+Basketball is scored based on game points. The team with the highest score at the end of regulation time wins. In case of a tie:
+
+- **Overtime:** 3-minute sudden death overtime period
+- If still tied, continue with additional 2-minute overtime periods until a winner is determined
+- Each team receives 1 additional timeout per overtime period
+
+**Sportsmanship Evaluation**
+
+While not scored, teams are evaluated on:
+- Respect for officials and opponents
+- Adherence to rules and spirit of the game
+- Positive encouragement and team support
+- Conduct of coaches and bench players
+
+Teams displaying exceptional sportsmanship may be recognized with a Spirit Award (separate from competition results).
 
 **Basketball** 
 
