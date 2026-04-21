@@ -20,7 +20,7 @@
 
 9. Upon sign-up, you will indicate exactly what instruments you will be using, as well as how many people will be needed to orchestrate your musical piece.
 
-10. All writers must submit a minimum **1-paragraph write-up** about the inspiration that they had creating this piece and the process. This should be submitted along with the *mp3 recording* of the song and a presentation with lyrics at least 2 weeks before the start of YCON via email to [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com) for the Creatives Committee. 
+10. All writers must submit a minimum **1-paragraph write-up** about the inspiration that they had creating this piece and the process. This should be submitted along with the *mp3 recording* of the song and a presentation with lyrics at least 2 weeks before the start of YCON via email to [the Creatives Committee](mailto:the Creatives Committee) for the Creatives Committee. 
 
 11. Also, please provide a printed copy of the lyrics for the Creatives Committee the day of YCON with the **song name, writer(s), and the order of the verses**. 
 
@@ -76,66 +76,68 @@ Content 20%
 
 **Note: Judges are required to give an overall score and then deduct points if necessary.**
 
-**Original Song Entry Form**
 
-**Delegation Information:**
-- Delegation (Area/Cluster/Chapter): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Area/Cluster/Chapter Couple Coordinator's Name and Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Area/Cluster/Chapter Head's Name and Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**ORIGINAL SONG JUDGING SHEET**
 
-**Song Information:**
-- Song Title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Composer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Judge Name:** _________________________ **Date:** _____________
 
-**Band (First Name, Last Name, Age):**
-- Bass: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Keyboard: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Drums: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Acoustic Guitar:
-  1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-  2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Electric Guitar:
-  1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-  2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Vocals:
-  1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-  2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Others (if applicable):
-  1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-  2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Team/Region:** _________________________
 
-**Performance Time:**
-- Minutes: \_\_\_\_\_\_\_\_\_\_\_\_
-- Seconds: \_\_\_\_\_\_\_\_\_\_\_\_
+**INSTRUCTIONS:** Rate each criterion on a scale of 1-10. The master sheet will calculate weighted scores.
 
-**Original Song Captain:**
-- Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Cell: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Home: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**JUDGING SCALE:**
+- **10** - Exceptional, far exceeded expectations
+- **9** - Excellent, exceeded expectations
+- **8** - Good, met expectations **(BASELINE)**
+- **7** - Satisfactory, mostly met expectations
+- **6** - Fair, some gaps in meeting expectations
+- **5 or below** - Needs improvement
 
-**Original Song Judging Rubric**
+---
 
-| Content (40) | Incomplete | Fair  | Good  | Great | Perfect  | Total |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Uniqueness of Lyrics** | **1**  | **5** | **10** | **15** | **20** |  |
-| **Content** | **1**  | **5** | **10** | **15** | **20** |  |
-| **Musical Arrangement (30)**  | **Incomplete** | **Fair**  | **Good**  | **Great** | **Perfect**  | **Total** |
-| **Effective Use of Instruments** | **1** | **4** | **6** | **8** | **10** |  |
-| **Transitions** | **1** | **4** | **6** | **8** | **10** |  |
-| **Stage Presence** | **1** | **4** | **6** | **8** | **10** |  |
-| **Showmanship (20)**  | **Incomplete** | **Fair**  | **Good**  | **Great** | **Perfect**  | **Total** |
-| **Onstage Presence** | **1** | **4** | **6** | **8** | **10** |  |
-| **Confidence** | **1** | **4** | **6** | **8** | **10** |  |
-| **Music Rendition** | **1** | **4** | **6** | **8** | **10** |  |
-| **Area/Cluster/Chapter:**  |  |  |  |  | **Final Score:**  |  |
-|  |  |  |  |  |  |  |
+**MESSAGE AND CONTENT**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Uniqueness of Lyrics | _____ / 10 | 9 |
+| Content | _____ / 10 | 8 |
+
+**MUSICAL ARRANGEMENT**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Effective Use of Instruments | _____ / 10 | 8 |
+| Transitions (Climax, Pause, Flow) | _____ / 10 | 9 |
+| Stage Presence | _____ / 10 | 8 |
+
+**SHOWMANSHIP**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| On-stage Presence | _____ / 10 | 9 |
+| Confidence | _____ / 10 | 8 |
+
+**MUSIC RENDITION (MUSICAL CREATIVITY)**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Music Rendition | _____ / 10 | 8 |
+
+**TOTAL RAW SCORE:** _____ / 80
+
+**JUDGE COMMENTS:**
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+**Note:** Final weighted score will be calculated by the master sheet based on category percentages (Message & Content 40%, Musical Arrangement 30%, Showmanship 20%, Music Rendition 10%).
 
 **DEDUCTIONS**  
-**? Late entry form submission, including 1-paragraph write-up (5 points)**  
-**? Over the time limit (2 points)**  
-**? Failure to provide lyrics (presentation) and mp3 (5 points)**  
-**? Performance does not reflect lyrics given (5 points)**  
-**? Not of Christian nature (5 points)**  
-**? Deductions reasons and points will be marked in the judges? forms before the forms are handed**  
-**to them.**
+• Late entry form submission, including 1-paragraph write-up (5 points)
+• Over the time limit (2 points)
+• Failure to provide lyrics (presentation) and mp3 (5 points)
+• Performance does not reflect lyrics given (5 points)
+• Not of Christian nature (5 points)
+
+**Note:** Deductions reasons and points will be marked in the judges' forms before the forms are handed to them. Judges are required to give an overall score and then deduct points if necessary.

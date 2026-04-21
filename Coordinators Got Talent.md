@@ -28,28 +28,90 @@ This should be submitted along with the mp3 recording and any other materials be
 
 12\. A mandatory meeting will be set up for all CCs Got Talent Captains to be briefed on guidelines, the  process on the day of the competition, and their order in performance. 
 
-**Couple Coordinators Got Talent Entry Form**
+**Criteria for Judging**
 
-**Delegation Information:**
-- Delegation (Area/Cluster/Chapter): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Area/Cluster/Chapter Couple Coordinator's Name and Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Theme Relevance and Concept 35%**
 
-**Performers (First Name, Last Name):**
-- Performer 1 (Husband): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | (Wife): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Performer 2 (Husband): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | (Wife): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Performer 3 (Husband): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | (Wife): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Performer 4 (Husband): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | (Wife): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Performer 5 (Husband): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | (Wife): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Performer 6 (Husband): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | (Wife): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Performer 7 (Husband): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | (Wife): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Performer 8 (Husband): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | (Wife): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Connection to 1 John 1:3-4 "As One" 15%
 
-**Performance Time:**
-- Minutes: \_\_\_\_\_\_\_\_\_\_\_\_
-- Seconds: \_\_\_\_\_\_\_\_\_\_\_\_
+Originality and Creativity 20%
 
-**CC Got Talent Captain:**
-- Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Cell: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Home: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Performance Quality 40%**
+
+Skill and Talent Execution 20%
+
+Energy and Entertainment Value 20%
+
+**Stage Presence and Showmanship 25%**
+
+Stage Presence and Confidence 15%
+
+Overall Presentation 10%
+
+***TOTAL 100%***
+
+**JUDGING GUIDANCE**
+
+For a 10-point item, start at 8 points as the baseline for a good entry. Use the following scale:
+- 10 points: Exceptional, exceeded expectations
+- 9 points: Very good, above average
+- 8 points: Good, meets expectations (baseline)
+- 7 points: Fair, slightly below expectations
+- 6 or below: Needs improvement
+
+**DEDUCTIONS**
+
+• Late entry form submission, including 1-paragraph write-up (5 points)
+• Over the time limit (2 points per 30 seconds over)
+• Under the time limit (2 points per 30 seconds under)
+• Inappropriate movements or costumes (10 points or disqualification)
+• Indecent props (5 points)
+
+**COUPLE COORDINATORS GOT TALENT JUDGING SHEET**
+
+**Judge Name:** _________________________ **Date:** _____________
+
+**Team/Region:** _________________________
+
+**INSTRUCTIONS:** Rate each criterion on a scale of 1-10. The master sheet will calculate weighted scores.
+
+**JUDGING SCALE:**
+- **10** - Exceptional, far exceeded expectations
+- **9** - Excellent, exceeded expectations
+- **8** - Good, met expectations **(BASELINE)**
+- **7** - Satisfactory, mostly met expectations
+- **6** - Fair, some gaps in meeting expectations
+- **5 or below** - Needs improvement
+
+---
+
+**THEME RELEVANCE AND CONCEPT**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Connection to 1 John 1:3-4 "As One" | _____ / 10 | 8 |
+| Originality and Creativity | _____ / 10 | 9 |
+
+**PERFORMANCE QUALITY**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Skill and Talent Execution | _____ / 10 | 8 |
+| Energy and Entertainment Value | _____ / 10 | 9 |
+
+**STAGE PRESENCE AND SHOWMANSHIP**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Stage Presence and Confidence | _____ / 10 | 9 |
+| Overall Presentation | _____ / 10 | 8 |
+
+**TOTAL RAW SCORE:** _____ / 60
+
+**JUDGE COMMENTS:**
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+**Note:** Final weighted score will be calculated by the master sheet based on category percentages (Theme & Concept 35%, Performance Quality 40%, Stage Presence & Showmanship 25%).

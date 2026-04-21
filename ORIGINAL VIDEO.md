@@ -24,26 +24,92 @@ c. Commercial \- A video that usually promotes a product, service or brand. E.g.
 
 7\. REMINDER: Before filming *inside* a Church, ask permission from the parish or priest. Always be  respectful and reverent inside a Church ? Jesus is truly present in the Blessed Sacrament.
 
-**ENTRY & SUBMISSION DETAILS** 
+**Criteria for Judging**
 
-? Only one entry per region is allowed. 
+**Theme Relevance and Message 40%**
 
-? All entries should be presented at the YCON. 
+Connection to 1 John 1:3-4 "As One" 20%
 
-? TO SUBMIT FOR YCON: Please upload the video to YouTube or Vimeo first, then submit via private link (YouTube or Vimeo) to [**cfcycomps@gmail.com**](mailto:cfcycomps@gmail.com). Please type ?Original Video 2026:  (AREA/CLUSTER/CHAPTER), (NAME)? on the Subject line. 
+Message Clarity and Evangelization Impact 20%
 
-**SUBMISSION FOR ORIGINAL VIDEO**
+**Creativity and Storytelling 35%**
 
-**Fill out this form and submit it along with your email submission to [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com)**
+Originality and Concept 15%
 
-- NAME: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- AREA/REGION: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Couple Coordinator's Name(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Couple Coordinator's Email(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Your Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Your Phone Number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Storytelling and Flow 20%
 
-**Submission should include: Send to [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com)**
-- SUBJ: "Original Video 2026: (AREA/CLUSTER/CHAPTER), (NAME)"
-- 1. Original video youtube link
-- 2. 1 paragraph write up
+**Technical Quality and Production 25%**
+
+Video and Audio Quality 10%
+
+Editing and Production Value 15%
+
+***TOTAL 100%***
+
+**JUDGING GUIDANCE**
+
+For a 10-point item, start at 8 points as the baseline for a good entry. Use the following scale:
+- 10 points: Exceptional, exceeded expectations
+- 9 points: Very good, above average
+- 8 points: Good, meets expectations (baseline)
+- 7 points: Fair, slightly below expectations
+- 6 or below: Needs improvement
+
+**DEDUCTIONS**
+
+• Late submission (5 points)
+• Over the time limit (2 points per 15 seconds over)
+• Under 1 minute (3 points)
+• Evidence of adult help in filming/editing/production (disqualification)
+• Inappropriate content (disqualification)
+• Missing or incomplete write-up (5 points)
+
+**ORIGINAL VIDEO JUDGING SHEET**
+
+**Judge Name:** _________________________ **Date:** _____________
+
+**Team/Region:** _________________________
+
+**INSTRUCTIONS:** Rate each criterion on a scale of 1-10. The master sheet will calculate weighted scores.
+
+**JUDGING SCALE:**
+- **10** - Exceptional, far exceeded expectations
+- **9** - Excellent, exceeded expectations
+- **8** - Good, met expectations **(BASELINE)**
+- **7** - Satisfactory, mostly met expectations
+- **6** - Fair, some gaps in meeting expectations
+- **5 or below** - Needs improvement
+
+---
+
+**THEME RELEVANCE AND MESSAGE**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Connection to 1 John 1:3-4 "As One" | _____ / 10 | 9 |
+| Message Clarity and Evangelization Impact | _____ / 10 | 8 |
+
+**CREATIVITY AND STORYTELLING**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Originality and Concept | _____ / 10 | 8 |
+| Storytelling and Flow | _____ / 10 | 9 |
+
+**TECHNICAL QUALITY AND PRODUCTION**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Video and Audio Quality | _____ / 10 | 7 |
+| Editing and Production Value | _____ / 10 | 8 |
+
+**TOTAL RAW SCORE:** _____ / 60
+
+**JUDGE COMMENTS:**
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+**Note:** Final weighted score will be calculated by the master sheet based on category percentages (Theme & Message 40%, Creativity & Storytelling 35%, Technical Quality & Production 25%).
+

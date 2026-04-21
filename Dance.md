@@ -27,7 +27,7 @@
 
 11\. Music should be wholesome and lively. **Subliminal, sexually suggestive, and/or vulgar  lyrics/language are not be allowed**. Non-compliance with this guideline will result in  **disqualification**. 
 
-12\. Your final mix in mp3 format MUST be submitted via email to [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com) at least 2 weeks before the start of YCON. Your music mix  must only be one track and not divided into several tracks. The mix should be named after your Area/Cluster/Chapter and creative competition and sent to the Creatives Committee. 
+12\. Your final mix in mp3 format MUST be submitted at least 2 weeks before the start of YCON. Your music mix  must only be one track and not divided into several tracks. The mix should be named after your Area/Cluster/Chapter and creative competition and sent to the Creatives Committee. 
 
 13\. On the day of the competition, you must bring your **USB** as a backup. It must be the same as the  mp3 mix and be labeled with your delegation and competition. 
 
@@ -35,47 +35,94 @@
 
 15\. A mandatory meeting will be set up for all Dance Captains to be briefed on guidelines, the  process on the day of the competition, and their order in performance.
 
-**Dance Entry Form**
+**Criteria for Judging**
 
-**Delegation Information:**
-- Delegation (Area/Cluster/Chapter): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Area/Cluster/Chapter Couple Coordinator's Name and Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Area/Cluster/Chapter Head's Name and Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Theme Relevance and Choreography 40%**
 
-**Title of Songs (please put an asterisk [*] next to the Worship song):**
-1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-3. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-4. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Connection to 1 John 1:3-4 "As One" 20%
 
-**Dance Team (First Name, Last Name, Age [as of the date of the YCON]):**
-1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-3. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-4. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-5. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-6. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-7. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-8. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-9. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-10. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-11. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-12. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-13. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-14. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-15. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-16. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-17. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-18. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-19. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-20. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Choreography and Creativity 20%
 
-**Performance Time:**
-- Minutes: \_\_\_\_\_\_\_\_\_\_\_\_
-- Seconds: \_\_\_\_\_\_\_\_\_\_\_\_
+**Performance and Execution 35%**
 
-**Dance Captain:**
-- Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Cell: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Home: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Synchronization and Timing 15%
+
+Energy and Stage Presence 10%
+
+Technical Skill 10%
+
+**Music and Costume 25%**
+
+Music Selection and Mix Quality 15%
+
+Costume Appropriateness and Unity 10%
+
+***TOTAL 100%***
+
+**JUDGING GUIDANCE**
+
+For a 10-point item, start at 8 points as the baseline for a good entry. Use the following scale:
+- 10 points: Exceptional, exceeded expectations
+- 9 points: Very good, above average
+- 8 points: Good, meets expectations (baseline)
+- 7 points: Fair, slightly below expectations
+- 6 or below: Needs improvement
+
+**DEDUCTIONS**
+
+• Late entry form submission, including 1-paragraph write-up (5 points)
+• Over the time limit (2 points per 30 seconds over)
+• Failure to submit mp3 mix on time (5 points)
+• Under 45 seconds of Worship track (3 points)
+• Inappropriate movements or costumes (10 points or disqualification)
+• Vulgar or inappropriate lyrics (disqualification)
+
+**DANCE JUDGING SHEET**
+
+**Judge Name:** _________________________ **Date:** _____________
+
+**Team/Region:** _________________________
+
+**INSTRUCTIONS:** Rate each criterion on a scale of 1-10. The master sheet will calculate weighted scores.
+
+**JUDGING SCALE:**
+- **10** - Exceptional, far exceeded expectations
+- **9** - Excellent, exceeded expectations
+- **8** - Good, met expectations **(BASELINE)**
+- **7** - Satisfactory, mostly met expectations
+- **6** - Fair, some gaps in meeting expectations
+- **5 or below** - Needs improvement
+
+---
+
+**THEME RELEVANCE AND CHOREOGRAPHY**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Connection to 1 John 1:3-4 "As One" | _____ / 10 | 8 |
+| Choreography and Creativity | _____ / 10 | 9 |
+
+**PERFORMANCE AND EXECUTION**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Synchronization and Timing | _____ / 10 | 9 |
+| Energy and Stage Presence | _____ / 10 | 8 |
+| Technical Skill | _____ / 10 | 7 |
+
+**MUSIC AND COSTUME**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Music Selection and Mix Quality | _____ / 10 | 8 |
+| Costume Appropriateness and Unity | _____ / 10 | 9 |
+
+**TOTAL RAW SCORE:** _____ / 70
+
+**JUDGE COMMENTS:**
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+**Note:** Final weighted score will be calculated by the master sheet based on category percentages (Theme & Choreography 40%, Performance & Execution 35%, Music & Costume 25%).

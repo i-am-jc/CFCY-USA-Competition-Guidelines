@@ -22,26 +22,90 @@ How awesome would it be to see one of your own designs being worn by your brothe
 
 ? Be creative and make a bold statement but remember to keep the sacredness of the message you  want to convey. For example: DO NOT put ?I?m homies with Jesus? or have an image of Mama Mary  wearing sunglasses, etc.
 
-**ENTRY & SUBMISSION DETAILS.** 
+**Criteria for Judging**
 
-? Only one entry per region is allowed. 
+**Theme Relevance and Message 40%**
 
-? All entries should be presented at the YCON. 
+Connection to 1 John 1:3-4 "As One" 20%
 
-? TO SUBMIT FOR YCON: Submit file in any format along with a brief explanation (5 sentences max)  of the design via email to [**cfcycomps@gmail.com**](mailto:cfcycomps@gmail.com). Please label the email subject with ?MERCH DESIGN: \[INSERT REGION-AREA  & NAME\]? 
+Evangelization Potential 20%
 
-**SUBMISSION FOR MERCH DESIGN:**
+**Design and Creativity 35%**
 
-**Fill out this form and submit it along with your email submission to [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com)**
+Originality and Artistic Merit 15%
 
-- NAME: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- AREA/REGION: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Couple Coordinator's Name(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Couple Coordinator's Email(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Your Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Your Phone Number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Visual Appeal and Impact 20%
 
-**Submission should include: Send to [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com)**
-- SUBJ: "Merch Design: [insert region-area and name]"
-- 1. Merch design in any file format
-- 2. 1 paragraph write up
+**Practicality and Execution 25%**
+
+Wearability/Usability 10%
+
+Technical Design Quality 15%
+
+***TOTAL 100%***
+
+**JUDGING GUIDANCE**
+
+For a 10-point item, start at 8 points as the baseline for a good entry. Use the following scale:
+- 10 points: Exceptional, exceeded expectations
+- 9 points: Very good, above average
+- 8 points: Good, meets expectations (baseline)
+- 7 points: Fair, slightly below expectations
+- 6 or below: Needs improvement
+
+**DEDUCTIONS**
+
+• Late submission, including 1-paragraph write-up (5 points)
+• More than 3 colors per side (3 points)
+• Inappropriate or irreverent design (10 points or disqualification)
+• Missing or incomplete write-up (5 points)
+
+**MERCH DESIGN JUDGING SHEET**
+
+**Judge Name:** _________________________ **Date:** _____________
+
+**Participant/Region:** _________________________
+
+**INSTRUCTIONS:** Rate each criterion on a scale of 1-10. The master sheet will calculate weighted scores.
+
+**JUDGING SCALE:**
+- **10** - Exceptional, far exceeded expectations
+- **9** - Excellent, exceeded expectations
+- **8** - Good, met expectations **(BASELINE)**
+- **7** - Satisfactory, mostly met expectations
+- **6** - Fair, some gaps in meeting expectations
+- **5 or below** - Needs improvement
+
+---
+
+**THEME RELEVANCE AND MESSAGE**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Connection to 1 John 1:3-4 "As One" | _____ / 10 | 8 |
+| Evangelization Potential | _____ / 10 | 9 |
+
+**DESIGN AND CREATIVITY**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Originality and Artistic Merit | _____ / 10 | 9 |
+| Visual Appeal and Impact | _____ / 10 | 8 |
+
+**PRACTICALITY AND EXECUTION**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Wearability/Usability | _____ / 10 | 8 |
+| Technical Design Quality | _____ / 10 | 8 |
+
+**TOTAL RAW SCORE:** _____ / 60
+
+**JUDGE COMMENTS:**
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+**Note:** Final weighted score will be calculated by the master sheet based on category percentages (Theme & Message 40%, Design & Creativity 35%, Practicality & Execution 25%).
+

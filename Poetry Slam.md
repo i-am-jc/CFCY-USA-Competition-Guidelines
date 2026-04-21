@@ -26,24 +26,92 @@
 
 12\. It is the performer?s responsibility to signify his or her presence at least **one hour** before the  competition. He or she needs to present a copy of his or her poem lyrics to the Creatives  Committee at least one hour before his or her performance. Participants must pay attention for  any announcements during the YCON. Their performance order will be announced before the  competition. 
 
-13\. Each Poetry Slam participant must submit a minimum **1-paragraph write-up** of the inspiration  behind the poem, which must be submitted via email [cfcycomps@gmail.com](mailto:cfcycomps@gmail.com)  to the Creatives Committee at least 2  weeks before the start of the YCON. 
+13\. Each Poetry Slam participant must submit a minimum **1-paragraph write-up** of the inspiration  behind the poem, which must be submitted via email [the Creatives Committee](mailto:the Creatives Committee)  to the Creatives Committee at least 2  weeks before the start of the YCON. 
 
-**Poetry Slam Entry Form**
+**Criteria for Judging**
 
-**Delegation Information:**
-- Delegation (Area/Cluster/Chapter): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Area/Cluster/Chapter Couple Coordinator's Name and Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Area Cluster/Chapter Head's Name and Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Theme Relevance and Content 40%**
 
-**Performer Information:**
-- Performer (First Name, Last Name, Age): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Poem Title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Connection to 1 John 1:3-4 "As One" 20%
 
-**Performance Time:**
-- Minutes: \_\_\_\_\_\_\_\_\_\_\_\_
-- Seconds: \_\_\_\_\_\_\_\_\_\_\_\_
+Message and Content Quality 20%
 
-**Contact Information:**
-- Cell: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Home: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Poetic Craft 30%**
+
+Literary Technique and Creativity 15%
+
+Word Choice and Imagery 15%
+
+**Performance and Delivery 30%**
+
+Voice, Tone, and Expression 15%
+
+Stage Presence and Confidence 15%
+
+***TOTAL 100%***
+
+**JUDGING GUIDANCE**
+
+For a 10-point item, start at 8 points as the baseline for a good entry. Use the following scale:
+- 10 points: Exceptional, exceeded expectations
+- 9 points: Very good, above average
+- 8 points: Good, meets expectations (baseline)
+- 7 points: Fair, slightly below expectations
+- 6 or below: Needs improvement
+
+**DEDUCTIONS**
+
+• Late entry form submission, including 1-paragraph write-up (5 points)
+• Over the time limit (2 points per 30 seconds over)
+• Failure to provide lyrics in presentation format (5 points)
+• Performance does not match submitted lyrics (5 points)
+• Inappropriate or vulgar content (disqualification)
+
+**POETRY SLAM JUDGING SHEET**
+
+**Judge Name:** _________________________ **Date:** _____________
+
+**Performer/Region:** _________________________
+
+**INSTRUCTIONS:** Rate each criterion on a scale of 1-10. The master sheet will calculate weighted scores.
+
+**JUDGING SCALE:**
+- **10** - Exceptional, far exceeded expectations
+- **9** - Excellent, exceeded expectations
+- **8** - Good, met expectations **(BASELINE)**
+- **7** - Satisfactory, mostly met expectations
+- **6** - Fair, some gaps in meeting expectations
+- **5 or below** - Needs improvement
+
+---
+
+**THEME RELEVANCE AND CONTENT**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Connection to 1 John 1:3-4 "As One" | _____ / 10 | 9 |
+| Message and Content Quality | _____ / 10 | 8 |
+
+**POETIC CRAFT**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Literary Technique and Creativity | _____ / 10 | 8 |
+| Word Choice and Imagery | _____ / 10 | 9 |
+
+**PERFORMANCE AND DELIVERY**
+
+| Criterion | Rating (1-10) | Sample Score |
+|-----------|---------------|--------------|
+| Voice, Tone, and Expression | _____ / 10 | 9 |
+| Stage Presence and Confidence | _____ / 10 | 8 |
+
+**TOTAL RAW SCORE:** _____ / 60
+
+**JUDGE COMMENTS:**
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+**Note:** Final weighted score will be calculated by the master sheet based on category percentages (Theme & Content 40%, Poetic Craft 30%, Performance & Delivery 30%).

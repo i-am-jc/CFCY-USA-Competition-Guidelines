@@ -30,6 +30,24 @@
 
 ? Hard fouls are prohibited, any player causing danger to other players may be removed at the  referee?s discretion.
 
+**Scoring and Judging**
+
+Basketball is scored based on game points. The team with the highest score at the end of regulation time wins. In case of a tie:
+
+- **Overtime:** 3-minute sudden death overtime period
+- If still tied, continue with additional 2-minute overtime periods until a winner is determined
+- Each team receives 1 additional timeout per overtime period
+
+**Sportsmanship Evaluation**
+
+While not scored, teams are evaluated on:
+- Respect for officials and opponents
+- Adherence to rules and spirit of the game
+- Positive encouragement and team support
+- Conduct of coaches and bench players
+
+Teams displaying exceptional sportsmanship may be recognized with a Spirit Award (separate from competition results).
+
 **Basketball** 
 
 Delegation (Area/Cluster/Chapter): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
